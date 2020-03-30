@@ -11,9 +11,9 @@ https://colab.research.google.com/github/pachterlab/BBB/blob/master/notebooks/lu
 
 ### Plotting Anything with ggplot2 
 
-*(Part1)[https://www.youtube.com/watch?v=h29g21z0a68]
+* [Part1](https://www.youtube.com/watch?v=h29g21z0a68)
 
-*(Part2)[https://www.youtube.com/watch?v=0m4yywqNPVY&feature=youtu.be]  
+* [Part2](https://www.youtube.com/watch?v=0m4yywqNPVY&feature=youtu.be)
 
 
 PThomas Lin Pedersen @thomasp85 beginner/intermediate ggplot2 workshop. 
